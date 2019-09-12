@@ -1,5 +1,5 @@
 import java.io.InputStream;
-import java.net.Socket
+import java.net.Socket;
 
 public MyObject {
   public int field;
